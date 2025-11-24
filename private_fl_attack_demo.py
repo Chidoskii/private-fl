@@ -114,7 +114,7 @@ if __name__ == "__main__":
     # The boolean mask from applying the example predicate to the data:
     # example_predicate_mask = example_predicate(data)
 
-    noisy_round_value = 99
+    noisy_round_value = 5
     round_value = noisy_round_value
     noise_value = noisy_round_value
     subset_value = 100
